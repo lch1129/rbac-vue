@@ -1,4 +1,5 @@
 # rbac-vue
+<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+rbac-vue
+>>>>>>> d23e9bc7e449f78ff64c15dd1120b6f5b51c1b18
